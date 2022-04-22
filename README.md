@@ -1,3 +1,5 @@
+# Please see https://github.com/FreesideHull/hullblogs.com for an updated repo 
+
 # hullblogs.com
 
 > Aggregated posts from University of Hull students
